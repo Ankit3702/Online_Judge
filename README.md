@@ -21,7 +21,7 @@ Follow these steps to set up the project:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/dee077/Online_Judge.git
+   git clone https://github.com/Ankit3702/Online_Judge.git
    cd my-django-project
    ```
 
