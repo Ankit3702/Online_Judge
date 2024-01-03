@@ -57,8 +57,8 @@ Follow these steps to set up the project:
     python manage.py runverver
     ```
     This command starts the application and its dependencies
-    The application should now be running at http://http://13.200.229.189//. You can access the Django admin panel at    
-    http://http://13.200.229.189//admin/
+    The application should now be running at 13.200.229.189. You can access the Django admin panel at    
+    13.200.229.189
 
 7. **Create Super Creadnetials**
     
